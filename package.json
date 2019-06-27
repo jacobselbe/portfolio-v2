@@ -1,0 +1,23 @@
+{
+  "name": "portfolio-v2",
+  "version": "1.0.0",
+  "description": "Jacob Selbe's Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacobselbe/portfolio-v2.git"
+  },
+  "author": "Jacob Selbe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacobselbe/portfolio-v2/issues"
+  },
+  "homepage": "https://github.com/jacobselbe/portfolio-v2#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node": "^12.4.0"
+  }
+}
