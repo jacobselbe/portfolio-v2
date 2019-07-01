@@ -3772,3 +3772,10 @@ input, select, textarea {
 			}
 
 		}
+
+	/* Copyright */
+
+		.copyright {
+			text-align: center;
+			margin: 1.5em;
+		}	
