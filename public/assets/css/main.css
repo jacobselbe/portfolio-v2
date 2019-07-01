@@ -93,7 +93,11 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #59898f;
+		background-color: #dddddd;
+		background-image: -moz-linear-gradient(90deg, #a89cc8, #8cc9f0);
+		background-image: -webkit-linear-gradient(90deg, #a89cc8, #8cc9f0);
+		background-image: -ms-linear-gradient(90deg, #a89cc8, #8cc9f0);
+		background-image: linear-gradient(90deg, #a89cc8, #8cc9f0);
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -110,7 +114,11 @@ input, select, textarea {
 /* Type */
 
 	body {
-		background-color: #59898f;
+		background-color: #dddddd;
+		background-image: -moz-linear-gradient(90deg, #a89cc8, #8cc9f0);
+		background-image: -webkit-linear-gradient(90deg, #a89cc8, #8cc9f0);
+		background-image: -ms-linear-gradient(90deg, #a89cc8, #8cc9f0);
+		background-image: linear-gradient(90deg, #a89cc8, #8cc9f0);
 	}
 
 	body, input, select, textarea {
